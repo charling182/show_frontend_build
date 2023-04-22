@@ -16,4 +16,4 @@ spec:
       - name: my-container
         image: 18515481949/pipeline-docker
         ports:
-        - containerPort: 2192
+        - containerPort: 80
