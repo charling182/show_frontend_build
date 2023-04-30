@@ -1,0 +1,1 @@
+(self["webpackChunk"]=self["webpackChunk"]||[]).push([[866],{46076:function(e,t,u){"use strict";u.r(t);var s=u(2020),o=u(30112),r=u(85893),n=e=>{console.log("props.routes",e.routes);var t=(0,s.wg)(e.routes,{parentRoute:"/workbench",includeParentRoute:!0});return t?(0,r.jsx)(o.l_,{to:t,exact:!0,push:!1}):(0,r.jsx)(o.l_,{to:"/403",exact:!0,push:!1})};t["default"]=n}}]);

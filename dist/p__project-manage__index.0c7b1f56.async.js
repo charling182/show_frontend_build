@@ -1,0 +1,1 @@
+(self["webpackChunk"]=self["webpackChunk"]||[]).push([[459],{74961:function(e,n,a){"use strict";a.r(n);a(67294);var c=a(85893),i=()=>(0,c.jsx)("div",{children:(0,c.jsx)("h1",{children:"ProjectManage"})});i.menu={name:"\u9879\u76ee\u7ba1\u7406",icon:"LineChartOutlined"},n["default"]=i}}]);
