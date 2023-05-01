@@ -15,8 +15,7 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: pipeline-docker:latest
-        # image: 18515481949/pipeline-docker:latest
+        image: 18515481949/pipeline-docker:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80
