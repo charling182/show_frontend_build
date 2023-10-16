@@ -1,0 +1,1 @@
+(self["webpackChunk"]=self["webpackChunk"]||[]).push([[364],{93998:function(e,n,i){"use strict";i.r(n);i(67294);var s=i(85893),u=e=>(0,s.jsxs)("div",{children:[(0,s.jsx)("h1",{children:"Test"}),e.children]});u.menu={name:"\u6d4b\u8bd5",icon:"AuditOutlined"},n["default"]=u}}]);

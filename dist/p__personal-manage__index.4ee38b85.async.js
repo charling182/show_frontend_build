@@ -1,1 +1,0 @@
-(self["webpackChunk"]=self["webpackChunk"]||[]).push([[19],{77464:function(e,t,l){"use strict";l.r(t);var n=l(67294),u=()=>n.createElement("div",{style:{background:"#fff",height:"100%"}},n.createElement("h1",null,"\u7528\u6237\u7ba1\u7406\u6237"));t["default"]=u}}]);

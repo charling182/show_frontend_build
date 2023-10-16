@@ -1,1 +1,0 @@
-(self["webpackChunk"]=self["webpackChunk"]||[]).push([[591],{14427:function(e){e.exports={"messasge-manage":"messasge-manage___o_Iei"}},84081:function(e,a,n){"use strict";n.r(a);var s=n(67294),m=n(14427),t=n.n(m),c=e=>s.createElement("div",{className:t()["messasge-manage"]},e.children);c.menu={name:"\u6d88\u606f\u63d0\u9192",icon:"LineChartOutlined"},c.order=4,a["default"]=c}}]);
