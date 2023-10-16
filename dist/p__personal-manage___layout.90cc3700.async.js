@@ -1,0 +1,1 @@
+(self["webpackChunk"]=self["webpackChunk"]||[]).push([[581],{9042:function(e){e.exports={"personal-manage":"personal-manage___2IArx"}},99680:function(e,n,a){"use strict";a.r(n);var r=a(67294),s=a(9042),l=a.n(s),t=e=>r.createElement("div",{className:l()["personal-manage"]},e.children);t.menu={name:"\u7528\u6237\u7ba1\u7406",icon:"LineChartOutlined"},t.order=4,n["default"]=t}}]);
