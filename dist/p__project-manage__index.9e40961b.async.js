@@ -1,0 +1,1 @@
+(self["webpackChunk"]=self["webpackChunk"]||[]).push([[459],{74961:function(e,t,r){"use strict";r.r(t);var u=r(67294),a=r(7511),c=r(30112),l=()=>{(0,a.md)();var e=(0,c.$B)();return u.createElement(c.l_,{to:"".concat(e.url,"/list")})};t["default"]=l}}]);
